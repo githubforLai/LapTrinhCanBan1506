@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1Zhdp6lO2aWtahGSQ9eiL7nMblKq4OysTyMiPx3CTSzw5HV2vdanNVToA1kKSxY/cCXl5XWv1OzjPD2KrKs2hQ==",
+  "dgSpecHash": "1AcLcLoJPuLVd2cfMYi3c5ZVp+c/H8JtduDYwBbg0oi/dzGuNqp+k+YkJ6CXRPciyvPd2YLoK6McKKlIJVRrVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungVongLapWhile\\SuDungVongLapWhile.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\SuDungVongLapWhile\\SuDungVongLapWhile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User 1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
   "logs": []
 }

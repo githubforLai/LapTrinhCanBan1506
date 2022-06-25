@@ -11,3 +11,17 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.dll
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.pdb
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.genruntimeconfig.cache
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.exe
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.deps.json
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.runtimeconfig.json
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.runtimeconfig.dev.json
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.dll
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.pdb
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.csproj.AssemblyReference.cache
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.AssemblyInfoInputs.cache
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.AssemblyInfo.cs
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.dll
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.pdb
+C:\Users\User 1\Documents\GitHub\LapTrinhCanBan1506\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.genruntimeconfig.cache
