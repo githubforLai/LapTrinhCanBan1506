@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {}
+    "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {
+    "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
+        "projectUniqueName": "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
         "projectName": "PhuongTrinhBac2",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
-        "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\PhuongTrinhBac2\\obj\\",
+        "projectPath": "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
+        "packagesPath": "C:\\Users\\User 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User 1\\Documents\\GitHub\\LapTrinhCanBan1506\\PhuongTrinhBac2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -47,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.24, 3.1.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
